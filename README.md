@@ -4,7 +4,7 @@ JustEvolve is a web application that helps users improve their posture and overa
 This project is aimed at providing a user-friendly and personalized approach to yoga that will reduce the possibility of health problems and ailments that can occur when asanas are performed incorrectly. The app is accessible to all members of the group, and each individual can benefit from the service according to their specific needs.
 
 
-Hoem Page:
+Home Page:
 <img width="960" alt="Mianpage" src="https://user-images.githubusercontent.com/77801834/233334630-dc37eae0-a0f5-43f7-97e6-fffd27126ae0.png">
 
 Login->Login with Email:
@@ -25,3 +25,17 @@ Practice Asana:
 
 ThankYou Page:
 <img width="960" alt="Thankyoupage" src="https://user-images.githubusercontent.com/77801834/233334639-54669095-d687-48a4-b452-48257821b73e.png">
+
+
+
+
+
+
+
+
+#How To Run:
+
+Deploy the chatbot using command:
+       python chatbot-deployment/app.py
+Run index.html on a live server (VSCode live server externsion works well too)
+You're All Set!!
