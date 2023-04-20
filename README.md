@@ -35,7 +35,10 @@ ThankYou Page:
 
 #How To Run:
 
+
 Deploy the chatbot using command:
        python chatbot-deployment/app.py
+       
 Run index.html on a live server (VSCode live server externsion works well too)
+
 You're All Set!!
